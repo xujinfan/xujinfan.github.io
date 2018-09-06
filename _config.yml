@@ -1,17 +1,17 @@
 # Site settings
-title: Tete Xiao
+title: Ju Xu
 description:
-  en: "This is an academic website for Tete Xiao to share his experiences, projects, publications and tech/non-tech posts. Tete Xiao is an undergraduate student at Peking University (PKU). His research interests lie in the field of Machine Learning and Computer Vison."
-  cn: "这是肖特特的个人学术主页，用于分享他的个人经历，项目，学术论文，技术相关/不相关的博客。"
+  en: "This is an academic website for Ju Xu to share his experiences, projects, publications and so on."
+  cn: "这是徐举的个人学术主页，用于分享他的个人经历，项目，学术论文等。"
 keywords:
-  en: "Tete Xiao,Publications,Posts,Research,Deep Learning,Computer Vision,Natural Language Processing"
-  cn: "肖特特,学术论文,博客,研究,深度学习,计算机视觉,自然语言处理"
+  en: "Ju Xu,Publications,Machine Learning,Deep Learning, autoML"
+  cn: "徐举,学术论文,机器学习,深度学习,自动机器学习"
 background: /images/background/background-aurora.jpg
 deep_background: /images/background/background-aurora.jpg
 
 baseurl: ""
 # the subpath of your site, e.g. /blog/
-url: "https://tete-xiao.github.io"
+url: "https://xujinfan.github.io"
 # the base hostname & protocol for your sit
 
 # Paginationœ
@@ -28,10 +28,10 @@ highlighter: rouge
 
 # Social media link for the site
 social:
-  twitter:    jasonhsiao97
-  github:     Tete-Xiao
-  facebook:   jasonhsiao97
-  linkedin:   tetexiao
+  twitter:    ''
+  github:     xujinfan
+  facebook:   xuju0814@163.com
+  linkedin:   xuju
   rss:        /feed.xml
 
 # customized document resources
