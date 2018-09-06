@@ -1,23 +1,16 @@
 - date:  "July. 2018 - "
-  title: "Research Intern @ MIT-IBM Watson AI Lab"
-  desc:  "Video Analytics"
+  title: "Research intern in MSRA"
+  desc:  "Machine Learning and autoML"
   brief: true
-- date:  "July. 2016 -  July. 2017"
-  title: "Research Assistant @ ICST, PKU"
-  desc:  "Machine Intelligence and Computer Vision"
+- date:  "Sep. 2017 - June. 2018"
+  title: "Research Assistant in Deep Learning Lab of PKU."
+  desc:  "Continual learning"
   host:
-    name:  "<a href='http://www.muyadong.com/'>Dr. Yadong Mu</a>"
+    name:  "<a href='https://sites.google.com/view/zhanxingzhu/'>Zhanxing Zhu</a>"
     role: "Supervisor"
   brief: true
-- date:  "Dec. 2015 - "
-  title: "Research Intern @ Megvii (Face++) Inc."
-  desc:  "Object Detection and Computer Vision"
-  host:
-    name:  "<a href='http://www.jiansun.org/'>Dr. Jian Sun</a>"
-    role: "Supervisor"
-  brief: true
-- date:  "Sept. 2015 - "
-  title: "Undergrad @ PKU"
-  desc:  "B.S. in Intelligence Science"
+- date:  "Sept. 2013 - June. 2017"
+  title: "Undergrad @ RUC (Renmim University of China)"
+  desc:  "B.S. in Mathematics"
   host: false
   brief: true
