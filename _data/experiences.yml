@@ -1,0 +1,23 @@
+- date:  "July. 2018 - "
+  title: "Research Intern @ MIT-IBM Watson AI Lab"
+  desc:  "Video Analytics"
+  brief: true
+- date:  "July. 2016 -  July. 2017"
+  title: "Research Assistant @ ICST, PKU"
+  desc:  "Machine Intelligence and Computer Vision"
+  host:
+    name:  "<a href='http://www.muyadong.com/'>Dr. Yadong Mu</a>"
+    role: "Supervisor"
+  brief: true
+- date:  "Dec. 2015 - "
+  title: "Research Intern @ Megvii (Face++) Inc."
+  desc:  "Object Detection and Computer Vision"
+  host:
+    name:  "<a href='http://www.jiansun.org/'>Dr. Jian Sun</a>"
+    role: "Supervisor"
+  brief: true
+- date:  "Sept. 2015 - "
+  title: "Undergrad @ PKU"
+  desc:  "B.S. in Intelligence Science"
+  host: false
+  brief: true
