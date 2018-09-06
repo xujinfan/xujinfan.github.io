@@ -5,9 +5,9 @@
   selected: true
   has_equal_contribution: no
   authors:
-    -name: <strong>J. Xu</strong>
+    - name: <strong>J. Xu</strong>
       url: 'http://xuju.me'
-    -name: Z. Zhu
+    - name: Z. Zhu
       url: 'https://sites.google.com/view/zhanxingzhu/'
 
   publisher: 'NIPS2018'
@@ -24,9 +24,9 @@
   selected: true
   has_equal_contribution: no
   authors:
-    -name: <strong>J. Xu</strong>
+    - name: <strong>J. Xu</strong>
       url: 'http://xuju.me'
-    -name: Z. Zhu
+    - name: Z. Zhu
       url: 'https://sites.google.com/view/zhanxingzhu/'
 
   publisher: 'Arxiv'
