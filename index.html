@@ -81,7 +81,9 @@ layout: home
           <p>{{ publication.desc }}</p>
         </div>
         <div class="publish">
-          <span class="publisher">{{ publication.publisher }}</span>
+          {% if publication.publisher %}
+            <span class="publisher">{{ publication.publisher }}</span>
+          {% endif %}
           <span class="status">{{ publication.status }}</span>
           <span class="place">{{ publication.place }}</span>
         </div>
