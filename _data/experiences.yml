@@ -6,14 +6,16 @@
     name: "<a href='https://www.microsoft.com/en-us/research/people/qlin/'>Qingwei Lin</a>"
     role: "Mentor"
 - date:  "Sep. 2017 - June. 2018"
-  title: "Research Assistant in Deep Learning Lab of PKU."
-  desc:  "Continual learning"
+  title: "Graduate student in Peking University"
+  desc:  "Major in data science, research on machine learning and deep learning."
   host:
     name:  "<a href='https://sites.google.com/view/zhanxingzhu/'>Zhanxing Zhu</a>"
     role: "Supervisor"
   brief: true
 - date:  "Sept. 2013 - June. 2017"
-  title: "Undergrad @ RUC (Renmim University of China)"
-  desc:  "B.S. in Mathematics"
-  host: false
+  title: "Undergraduate in Renmim University of China."
+  desc:  "Major in mathematics, focus on data mining."
+  host:
+    name: "<a href='http://info.ruc.edu.cn/academic_professor.php?teacher_id=71'>Wei Xu</a>"
+    role: "Supervisor"
   brief: true
