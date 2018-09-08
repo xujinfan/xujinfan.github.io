@@ -2,6 +2,9 @@
   title: "Research intern in MSRA"
   desc:  "Machine Learning and autoML"
   brief: true
+  host:
+    name: "<a href='https://www.microsoft.com/en-us/research/people/qlin/'>Qingwei Lin</a>"
+    role: "Mentor"
 - date:  "Sep. 2017 - June. 2018"
   title: "Research Assistant in Deep Learning Lab of PKU."
   desc:  "Continual learning"
