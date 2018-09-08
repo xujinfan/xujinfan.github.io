@@ -40,7 +40,9 @@ noindex:  true
       </div>
       <div class="tags">
         {% for tag in publication.tags %}
-        [<a class="tag" href="{{tag.url}}"><strong>{{ tag.name }}</strong></a>]
+          {% if tag.name %}
+            [<a class="tag" href="{{tag.url}}"><strong>{{ tag.name }}</strong></a>]
+          {% endif %}
         {% endfor %}
       </div>
     </div>
