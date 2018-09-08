@@ -1,12 +1,12 @@
 - date:  "July. 2018 - "
-  title: "Research intern in MSRA"
-  desc:  "Machine Learning and autoML"
+  title: "Research intern in MSRA."
+  desc:  "Machine Learning and autoML."
   brief: true
   host:
     name: "<a href='https://www.microsoft.com/en-us/research/people/qlin/'>Qingwei Lin</a>"
     role: "Mentor"
 - date:  "Sep. 2017 - June. 2018"
-  title: "Graduate student in Peking University"
+  title: "Graduate student in Peking University."
   desc:  "Major in data science, research on machine learning and deep learning."
   host:
     name:  "<a href='https://sites.google.com/view/zhanxingzhu/'>Zhanxing Zhu</a>"
