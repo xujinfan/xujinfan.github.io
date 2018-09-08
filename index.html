@@ -81,15 +81,15 @@ layout: home
           <p>{{ publication.desc }}</p>
         </div>
         <div class="publish">
-          {% if publication.publisher %}
-            <span class="publisher">{{ publication.publisher }}</span>
-          {% endif %}
+          <span class="publisher">{{ publication.publisher }}</span>
           <span class="status">{{ publication.status }}</span>
           <span class="place">{{ publication.place }}</span>
         </div>
         <div class="tags">
           {% for tag in publication.tags %}
-          [<a class="tag" href="{{tag.url}}"> <strong>{{ tag.name }}</strong> </a>]
+            {% if tag.name %}
+              [<a class="tag" href="{{tag.url}}"> <strong>{{ tag.name }}</strong> </a>]
+            {% endif %}
           {% endfor %}
         </div>
       </div>
