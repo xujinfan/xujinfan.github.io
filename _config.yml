@@ -28,11 +28,11 @@ highlighter: rouge
 
 # Social media link for the site
 social:
-  twitter:    ''
+  twitter:    no
   github:     xujinfan
   facebook:   profile.php?id=100028355807550
   linkedin:   举-徐-09b4b0167/
-  rss:        /feed.xml
+  rss:        no
 
 # customized document resources
 collections:
