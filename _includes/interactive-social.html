@@ -1,3 +1,10 @@
+{% if site.social.zhihu %}
+<a href="{{ site.social.zhihu | prepend: 'https://zhuanlan.zhihu.com/'}}">
+  <img src="/images/icon/color-zhihu.png" class="social-icon"> 
+</a>
+{% endif %}
+
+
 {% if site.social.github %}
 <a href="{{ site.social.github | prepend: 'https://github.com/' }}" class="icon-button github">
   <i class="fa fa-github icon-github"></i>
