@@ -30,31 +30,8 @@
       url: 'https://sites.google.com/view/zhanxingzhu/'
 
   publisher: 'Submitted to CVPR2019'
-  place: 'in America, Long Beach'
+  place: 'in America, Hawaii'
   desc: 'Though neural networks have achieved much progress in various applications, it is still highly challenging for them to learn from a continuous stream of tasks without forgetting. Continual learning, a new learning paradigm, aims to solve this issue. In this work, we propose a new model for continual learning, called Bayesian Optimized Continual Learning with Attention Mechanism (BOCL) that dynamically expands the network capacity upon the arrival of new tasks by Bayesian optimization and selectively utilizes previous knowledge (e.g. feature maps of previous tasks) via attention mechanism. Our experiments on variants of MNIST and CIFAR-100 demonstrate that our methods outperform the state-of-the-art in preventing catastrophic forgetting and fitting new tasks better.'
-  tags:
-    - name: no
-      url: ''
-
-- title: ' Credit Evaluation for Online Secondhand Sellers.'
-  date: 'Sep. 2016'
-  imgurl: '/images/projects/2016/sigbps.png'
-  imgprop: 'frame'
-  selected: true
-  has_equal_contribution: no
-  authors:
-    - name: R. chen
-      url: ''
-    - name: W. Xu
-      url: ''
-    - name: Y. Zheng
-      url: ''
-    - name: <strong>J. Xu</strong>
-      url: 'http://xuju.me'
-
-  publisher: 'SIGBPS 2016 Workshop on Business Processes and Services.'
-  place: 'in Dublin, Ireland'
-  desc: 'The credit score of second-hand merchants is very important for the purchaser, and accurate merchant credit scores can reduce fraud and optimize the user experience. This article supports the evaluation of the merchant’s reputation by using the topic model to extract the merchant characteristics and establish a machine learning model to score the reputation of the second-hand merchant.'
   tags:
     - name: no
       url: ''
