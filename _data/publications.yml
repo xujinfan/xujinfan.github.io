@@ -29,7 +29,7 @@
     - name: Z. Zhu
       url: 'https://sites.google.com/view/zhanxingzhu/'
 
-  publisher: 'Submitted to AAAI2019'
+  publisher: 'Submitted to CVPR2019'
   place: 'in America, Hawaii'
   desc: 'Though neural networks have achieved much progress in various applications, it is still highly challenging for them to learn from a continuous stream of tasks without forgetting. Continual learning, a new learning paradigm, aims to solve this issue. In this work, we propose a new model for continual learning, called Bayesian Optimized Continual Learning with Attention Mechanism (BOCL) that dynamically expands the network capacity upon the arrival of new tasks by Bayesian optimization and selectively utilizes previous knowledge (e.g. feature maps of previous tasks) via attention mechanism. Our experiments on variants of MNIST and CIFAR-100 demonstrate that our methods outperform the state-of-the-art in preventing catastrophic forgetting and fitting new tasks better.'
   tags:
