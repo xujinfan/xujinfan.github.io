@@ -1,6 +1,20 @@
+- date:  "May. 2019 - Oct. 2019"
+  title: "Algorithm Engineer intern in Alibaba."
+  desc:  "Recommender Systems"
+  brief: true
+  host:
+    name: "<a href='https://www.taobao.com/'>Zhiqiang Zhang</a>"
+    role: "Mentor"
+- date:  "Jan. 2019 - May. 2019"
+  title: "Research intern in 4Paradigm."
+  desc:  "Neural Architecture Search"
+  brief: true
+  host:
+    name: "<a href='http://www.cse.ust.hk/~qyaoaa/'>Quanmin Yao</a>"
+    role: "Mentor"
 - date:  "July. 2018 - "
   title: "Research intern in MSRA."
-  desc:  "Machine Learning and autoML."
+  desc:  "Machine Learning and Disk Prediction."
   brief: true
   host:
     name: "<a href='https://www.microsoft.com/en-us/research/people/qlin/'>Qingwei Lin</a>"
