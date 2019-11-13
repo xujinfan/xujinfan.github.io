@@ -6,7 +6,7 @@ deep_pic:   /images/self-portrait/deep-me.jpg
 normal:
   date:     "Sep. 2018"
   title:    ""
-  content: "<strong>Ju Xu</strong> is a graduate student majoring in Data Science at <strong>Peking University (PKU)</strong>. He is now a algorithm engineer intern at <strong>Alibaba</strong>, focusing on recommender systems. He has published several papers on NIPS, AAAI and so on. When he was a undergraduate at Renmin University of China, he focus on data mining. He will graduate from Peking Unviersity in June 2020."
+  content: "<strong>Ju Xu</strong> is a graduate student majoring in Data Science at <strong>Peking University (PKU)</strong>. He is now a algorithm engineer intern at <strong>Alibaba</strong>, focusing on recommender systems. He has published several papers on NeurIPS, AAAI and so on. When he was a undergraduate at Renmin University of China, he focus on data mining. He will graduate from Peking Unviersity in June 2020."
 short:
   date: ""
   title:  "Something"
