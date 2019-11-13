@@ -1,3 +1,26 @@
+- title: 'Efficient Neural Architecture Search via Proximal Iterations'
+  date: 'Mar. 2019'
+  imgurl: '/images/projects/2019/AAAI.png'
+  imgprop: 'frame'
+  selected: true
+  has_equal_contribution: yes
+  authors:
+    - name: <strong>Q, Yao</strong>
+      url: 'http://www.cse.ust.hk/~qyaoaa/'
+    - name: <strong>J. Xu</strong>
+      url: 'http://xuju.me'
+    - name: Z. Zhu
+      url: 'https://sites.google.com/view/zhanxingzhu/'
+    - name: W. Tu
+      url: 'https://scholar.google.com/citations?user=NrSit7IAAAAJ&hl=zh-CN'
+
+  publisher: 'AAAI2020'
+  place: 'in American, New York'
+  desc: ' In this paper, we propose a new differentiable Neural Architecture Search method based on Proximal gradient descent (denoted as NASP). Different from DARTS, NASP reformulates the search process as an optimization problem with a constraint that only one operation is allowed to be updated during forward and backward propagation. Experiments on various tasks demonstrate that NASP can obtain high-performance architectures with 10 times of speedup on the computational time than DARTS.'
+  tags:
+    - name: 'arxiv'
+      url: 'https://arxiv.org/abs/1905.13577'
+
 - title: 'Reinforced Continual Learning'
   date: 'Mar. 2018'
   imgurl: '/images/projects/2018/xuju2018_nips.png'
