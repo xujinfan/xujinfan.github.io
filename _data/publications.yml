@@ -21,6 +21,29 @@
     - name: 'arxiv'
       url: 'https://arxiv.org/pdf/2010.11695.pdf'
 
+- title: 'Automatic data augmentation for 3d medical image segmentation'
+  date: 'June. 2020'
+  imgurl: '/images/projects/2020/NASP.png'
+  imgprop: 'frame'
+  selected: true
+  has_equal_contribution: true
+  authors:
+    - name: <strong>Ju Xu</strong>
+      url: 'http://xuju.me'
+      equal_contribution: true
+    - name: Mengzhang Li
+      url: ''
+      equal_contribution: true
+    - name: Zhanxing Zhu
+      url: 'https://sites.google.com/view/zhanxingzhu/'
+
+  publisher: 'MICCAI2020'
+  place: 'Online'
+  desc: ' In this paper, we propose an automatic data augmentation framework (ASNG) through searching the optimal augmentation policy, particularly for 3D medical image segmentation tasks. It’s the first automatic data augmentation work in whole semantic segmentation filed.'
+  tags:
+    - name: 'arxiv'
+      url: 'https://arxiv.org/pdf/2010.11695.pdf'
+
 - title: 'Efficient Neural Architecture Search via Proximal Iterations'
   date: 'Mar. 2019'
   imgurl: '/images/projects/2019/AAAI.png'
