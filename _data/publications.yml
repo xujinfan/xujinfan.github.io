@@ -1,25 +1,31 @@
-- title: 'Automatic data augmentation for 3d medical image segmentation'
-  date: 'June. 2020'
-  imgurl: '/images/projects/2020/NASP.png'
+- title: 'Automated Creative Optimization for E-Commerce Advertising'
+  date: 'Apri. 2020'
+  imgurl: '/images/projects/2021/AutoCO.png'
   imgprop: 'frame'
   selected: true
-  has_equal_contribution: true
+  has_equal_contribution: false
   authors:
+    - name: Jin Chen
+      url: ''
     - name: <strong>Ju Xu</strong>
       url: 'http://xuju.me'
-      equal_contribution: true
-    - name: Mengzhang Li
+    - name: Gangwei Jiang
       url: ''
-      equal_contribution: true
-    - name: Zhanxing Zhu
-      url: 'https://sites.google.com/view/zhanxingzhu/'
+    - name: Tiezheng Ge
+      url: ''
+    - name: Zhiqiang Zhang
+      url: ''
+    - name: Defu Lian
+      url: ''
+    - name: Kai Zheng
+      url: ''
 
-  publisher: 'MICCAI2020'
+  publisher: 'WWW2021'
   place: 'Online'
-  desc: ' In this paper, we propose an automatic data augmentation framework (ASNG) through searching the optimal augmentation policy, particularly for 3D medical image segmentation tasks. It’s the first automatic data augmentation work in whole semantic segmentation filed.'
+  desc: '  we propose an Automated Creative Optimization (AutoCO) framework to model complex interaction between creative elements and to balance between exploration and exploitation. Specifically, motivated by AutoML, we propose one-shot search algorithms for searching effective interaction functions between elements.'
   tags:
     - name: 'arxiv'
-      url: 'https://arxiv.org/pdf/2010.11695.pdf'
+      url: 'https://arxiv.org/pdf/2103.00436v1.pdf'
 
 - title: 'Automatic data augmentation for 3d medical image segmentation'
   date: 'June. 2020'
